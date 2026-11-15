@@ -32,6 +32,7 @@ android.permissions = INTERNET
 # Automatically accept Android SDK licenses
 android.accept_sdk_license = True
 
-# Android API and minimum API versions
+# Android API, minimum API versions, and stable NDK version
 android.api = 33
 android.min_api = 21
+android.ndk_version = 25b
